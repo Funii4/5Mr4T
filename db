@@ -1,5 +1,17 @@
 {
-    "xd": [
-        "refresh"
+    "commands": [
+      {
+        "command": "refresh",
+        "arguments": [""]
+      },
+      {
+        "command": "kick",
+        "arguments": ["player1234"]
+      },
+      {
+        "command": "teleport",
+        "arguments": ["player1234", "100", "200", "300"]
+      }
     ]
-}
+  }
+  
